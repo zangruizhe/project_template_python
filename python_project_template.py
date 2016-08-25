@@ -22,8 +22,6 @@ import time
 # for log
 from  log_config import *
 
-
-
 class TestThriftServer:
     #def __init__(self, ip_add, port, md_gui):
     def __init__(self, ip_add, port):
